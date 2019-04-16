@@ -1,0 +1,28 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.img-fluid { 
+opacity: 0.5;
+}
+
+.white {
+    background: white;
+    height: 100px;
+    color:black;
+    
+}
+
+.grey {
+background: #D1B9Bf;
+height: 100px;
+ color:black;
+}

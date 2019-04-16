@@ -1,0 +1,30 @@
+.navbar-default {
+  color: black;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.img-fluid { 
+opacity: 0.5;
+}
+
+.pink {
+    background: #D1B9Bf;
+    height: 100px;
+    color:white;
+    
+}
+.blue{
+  color: white;
+  background: #87A3B0
+}
